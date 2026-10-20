@@ -133,3 +133,4 @@
 - [rtsp流音频单独录制工具，只录制rtsp流音频舍弃视频画面](https://github.com/xiaohaowvc/spUvTY/commit/274b739503da65e44215bd75533fa4005ca9aa32)
 - [地方营商环境，决定民营企业愿不愿意长期扎根](https://github.com/xiaohaowvc/spUvTY/commit/d86e577cee0590c5a1fd941bdd673ce4aa100740)
 - [数据要素政策不断加码，商业化变现依旧艰难](https://github.com/xiaohaowvc/spUvTY/commit/ff028e5b12d7a5dcc3df86561b8c2f16aafdc786)
+- [跟风学大佬资产配置，越配置亏损越严重](https://github.com/xiaohaowvc/spUvTY/commit/cde1499c4d4cc4fa742ede8299acdb9458cddef7)
