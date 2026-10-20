@@ -95,3 +95,4 @@
 - [SVG矢量图批量渲染导出PNG，转换矢量格式脚本](https://github.com/xiaohaowvc/spUvTY/commit/2c09f3fadf4c74400d45d0aebc5f2debd3abcb76)
 - [技术开源案例仓库 可复用源码与集成接入指南](https://github.com/xiaohaowvc/spUvTY/commit/f739a796811ed17fa87ec0083e05dc6f1393da73)
 - [职工探亲假政策，哪些职工可以享受探亲假期](https://github.com/xiaohaowvc/spUvTY/commit/50e334aafc1b8d71d4655776ce660c6916b787a1)
+- [helm模板参数提取工具，提取helm模板全部输入参数清单](https://github.com/xiaohaowvc/spUvTY/commit/0df9c8cfdb0b7d2051ca6800e5316bc9add2e4a2)
