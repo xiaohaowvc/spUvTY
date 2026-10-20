@@ -79,3 +79,4 @@
 - [工业数字孪生AI仿真，虚实数据实时双向同步](https://github.com/xiaohaowvc/spUvTY/commit/c65152b081e873dfeb7e0dacbbaa2b73ecf22e67)
 - [图片批量alpha通道去除，批量移除图片透明通道输出不透明图](https://github.com/xiaohaowvc/spUvTY/commit/d2ba71937b63bfbd405ff547f290f2402ce1831c)
 - [大家都在劝买黄金，为什么大佬却在悄悄减仓](https://github.com/xiaohaowvc/spUvTY/commit/193ac519992d9ff3db9b3c67d08e04084743d514)
+- [医保目录动态调整，高价特效药纳入医保进程](https://github.com/xiaohaowvc/spUvTY/commit/e8a171158d7e8be77ffc2ecb956c2590aa932bad)
