@@ -86,3 +86,4 @@
 - [垂直行业大模型落地AI不再只停留在通用概念层面](https://github.com/xiaohaowvc/spUvTY/commit/1ce9a1bbd94c2383db3236d3bd42f2eba08d84df)
 - [Secret扫描误报，大量普通字符串被识别密钥](https://github.com/xiaohaowvc/spUvTY/commit/f2f5a13fcf1db8ace69a3e6b36827eeb82083c6c)
 - [HTTPS 简易服务开源仓库 完整源码搭建 https 测试服务](https://github.com/xiaohaowvc/spUvTY/commit/5fa3d66b65b2cbe081d2145603078a4d26ca1060)
+- [浏览器书签批量管理套件，去重分类导入导出云端同步书签](https://github.com/xiaohaowvc/spUvTY/commit/c02f4633ad3e89d2d35a90f6e52ed67c0806cc83)
