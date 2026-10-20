@@ -33,3 +33,4 @@
 - [外贸数据亮眼，普通从业者分不到蛋糕](https://github.com/xiaohaowvc/spUvTY/commit/8f0f35801cf4e97f15cd0b6db4e63df4d8365f13)
 - [技术实操文档 Markdown 格式百度友好版示例](https://github.com/xiaohaowvc/spUvTY/commit/ce5109cf14e088e23b55f6e786835da844e7f470)
 - [转融券双向机制完善市场多空平衡带来哪些投资变化](https://github.com/xiaohaowvc/spUvTY/commit/11b55994ef9a5f66ed36fb7aef29fb79c4ba2de3)
+- [6G网络大规模商用，日常生活带来哪些改变](https://github.com/xiaohaowvc/spUvTY/commit/3bf68ad49bc6f5575230774be0b36978868bcbbf)
