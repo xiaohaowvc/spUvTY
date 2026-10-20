@@ -10,3 +10,4 @@
 - [社会保障的完善，能够降低居民的预防性储蓄动机](https://github.com/xiaohaowvc/spUvTY/commit/5d82672f6b64646b9ce5ffbc277131ddeaa05640)
 - [简易事件总线源码 完整源码内存事件总线事件监听分发](https://github.com/xiaohaowvc/spUvTY/commit/42f39fc87a0e41e1d4d7c36fe7e041b907dc503b)
 - [开源仓库文档引用外部资料标注来源出处](https://github.com/xiaohaowvc/spUvTY/commit/91ce13f66ae660157ed225b9f5bf96ca2afdfb3c)
+- [GitHub仓库批量归档闲置仓库脚本](https://github.com/xiaohaowvc/spUvTY/commit/c09725899b1e3d59350213bd6e023b37ae73d792)
