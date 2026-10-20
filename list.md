@@ -187,3 +187,4 @@
 - [无障碍出行推进，残障人士出行环境改善](https://github.com/xiaohaowvc/spUvTY/commit/c4706b07b76dea2b3f7d4b9faa5450f41c4a33aa)
 - [Agent工具自动发现，无需硬编码注册外部接口](https://github.com/xiaohaowvc/spUvTY/commit/7bc20117ef872b532a9e0989cd7d469c1521bb77)
 - [静态开源文档页面之间互相跳转链接搭建](https://github.com/xiaohaowvc/spUvTY/commit/59f1b740bfacb7b57264c06798d3046c0499f788)
+- [大宗商品套保监管强化实体企业参与衍生品交易行为被规范](https://github.com/xiaohaowvc/spUvTY/commit/67e3b2f1e89c7f890472c9ac4ad5df9f9da95ba2)
