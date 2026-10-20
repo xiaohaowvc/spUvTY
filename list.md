@@ -45,3 +45,4 @@
 - [地方专项债用作资本金撬动社会资本投入基建项目](https://github.com/xiaohaowvc/spUvTY/commit/d5550b549fe81c996fe6cbb70066cc8b5bebc299)
 - [古籍异体字规范化转换工具，繁简异体文本处理脚本](https://github.com/xiaohaowvc/spUvTY/commit/2d5a5f099fd6837743c48a024b603dc5b8d059b3)
 - [自托管Runner搭建，企业私有化执行器利弊](https://github.com/xiaohaowvc/spUvTY/commit/3fca67cc88fb592aa81dd738e8dc2efc33b5ad7f)
+- [不要追热点题材，热点最后大多套人](https://github.com/xiaohaowvc/spUvTY/commit/b5b2f58f4cca79d6e9779ac56b81097bf9a84000)
