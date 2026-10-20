@@ -112,3 +112,4 @@
 - [国企民企协同发展，才能释放整体经济活力](https://github.com/xiaohaowvc/spUvTY/commit/efce88f95501f6f13cb24bdaad1eca7a1faa8cda)
 - [程序优雅停机实现开源工程 完整源码捕获信号释放资源](https://github.com/xiaohaowvc/spUvTY/commit/5a3419fff2eed5ee4b9e1c182833fe3a7d663ae3)
 - [老年兴趣培训市场整治如何避开养老骗局](https://github.com/xiaohaowvc/spUvTY/commit/fb2954f0d2d84bddbdda9dc155f3485c52cae753)
+- [本地简易tcp syn扫描脚本，原始套接字syn探测端口存活](https://github.com/xiaohaowvc/spUvTY/commit/797662bf91263bc7de6d24b4ab85c9cc58566389)
