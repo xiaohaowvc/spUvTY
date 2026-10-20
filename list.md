@@ -76,3 +76,4 @@
 - [视频场景切换检测工具，检测视频镜头切换输出时间点](https://github.com/xiaohaowvc/spUvTY/commit/57cd0a2b20e4aa252d0f25552ddd3f6839c56bfd)
 - [收入增速放缓，普通家庭该建立怎样的开支缓冲机制](https://github.com/xiaohaowvc/spUvTY/commit/3b9683883bc4698b09a75a741a74b8ad7bb06ba1)
 - [漏桶限流算法完整开源仓库 完整源码流量削峰逻辑演示](https://github.com/xiaohaowvc/spUvTY/commit/06734493a5822191bc38623891be16b778c40dbb)
+- [工业数字孪生AI仿真，虚实数据实时双向同步](https://github.com/xiaohaowvc/spUvTY/commit/c65152b081e873dfeb7e0dacbbaa2b73ecf22e67)
