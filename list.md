@@ -103,3 +103,4 @@
 - [接口自动化校验开源项目 完整源码包含接口断言逻辑演示](https://github.com/xiaohaowvc/spUvTY/commit/9711f62c03a8a319ee02071f6d668ff128252ed4)
 - [不动产跨省查询个人隐私平衡](https://github.com/xiaohaowvc/spUvTY/commit/b922ff67a5e551749314a52bc58efe67acba2d81)
 - [消费税传闻四起，最终买单还是普通消费者](https://github.com/xiaohaowvc/spUvTY/commit/26db6a95b47dac56f75c370d3896c6d65593de2e)
+- [以旧换新政策落地，如何真正撬动大众消费意愿](https://github.com/xiaohaowvc/spUvTY/commit/1ef7c0e8e0fcd01a79826afe854ebed4812388f7)
