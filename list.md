@@ -5,3 +5,4 @@
 - [多感官数字交互，嗅觉触觉信号接入AI处理链路](https://github.com/xiaohaowvc/spUvTY/commit/b3ee0fcc37d79f86b2f53de622691a59fda5a3da)
 - [商业保险普惠创新，普惠险赔付率提升难题](https://github.com/xiaohaowvc/spUvTY/commit/e38cd135695d3c469262573f735184debf33d297)
 - [租房押金不退怎么办租客维权实用处理方法](https://github.com/xiaohaowvc/spUvTY/commit/a8dd4506754dae30f55ac224d1606add424a2057)
+- [6G通感一体，感知数据接入AI业务流水线](https://github.com/xiaohaowvc/spUvTY/commit/391ab372cffdcb31c8d0adb3d6810038f288d247)
