@@ -53,3 +53,4 @@
 - [数据库批量删除 Demo 完整源码批量清理历史过期数据](https://github.com/xiaohaowvc/spUvTY/commit/97dfaeb4fd955c2a60f93840f6c1f6beab821141)
 - [本地简易socks5测试客户端，测试socks5代理连通性](https://github.com/xiaohaowvc/spUvTY/commit/241670a6df6ad07f52e91fefde13b1f0793d0517)
 - [markdown列表嵌套层级修复，批量修复错乱嵌套markdown列表](https://github.com/xiaohaowvc/spUvTY/commit/5a661cd3c9bbf504e0476b222d92f8534679b03e)
+- [农业科技普及，普通农户使用智能农机门槛](https://github.com/xiaohaowvc/spUvTY/commit/21ba9647a9094de49dfaa9a61f4a671bd23627aa)
