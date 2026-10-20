@@ -83,3 +83,4 @@
 - [重复文件移动归档工具，扫描重复文件移动到归档目录](https://github.com/xiaohaowvc/spUvTY/commit/2782031b366c6089bc2bc123ce3bf8c142e7116a)
 - [开源知识库归档页面添加 noindex 标签小技巧](https://github.com/xiaohaowvc/spUvTY/commit/9e6d132eb336fb8762fa1adcaf8c7fce20c6a3be)
 - [Git Commit规范校验脚本，拦截不合规提交信息](https://github.com/xiaohaowvc/spUvTY/commit/e8e373a9460134799493304253acc0fa6081b69f)
+- [垂直行业大模型落地AI不再只停留在通用概念层面](https://github.com/xiaohaowvc/spUvTY/commit/1ce9a1bbd94c2383db3236d3bd42f2eba08d84df)
