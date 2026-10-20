@@ -198,3 +198,4 @@
 - [太空算力云在轨计算，卫星端AI推理工程挑战](https://github.com/xiaohaowvc/spUvTY/commit/8a562d8e2a2b401495595c4fe88a63b9a08f9439)
 - [全功能开源参考项目 全套源码附问题修复手册](https://github.com/xiaohaowvc/spUvTY/commit/9cc1f426eae5bc9424c51a15b6e64e708db388b9)
 - [县域商业体系建设，下沉市场蕴藏多大消费潜力](https://github.com/xiaohaowvc/spUvTY/commit/d8cc8c58073e6f56c3ba0b5676b53257646f62a1)
+- [网关熔断降级开源仓库 完整源码网关层故障保护逻辑](https://github.com/xiaohaowvc/spUvTY/commit/9fddf4721ffe18624f799d23cd141a51ba355640)
