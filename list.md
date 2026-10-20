@@ -136,3 +136,4 @@
 - [跟风学大佬资产配置，越配置亏损越严重](https://github.com/xiaohaowvc/spUvTY/commit/cde1499c4d4cc4fa742ede8299acdb9458cddef7)
 - [静态开源站点屏蔽爬虫抓取草稿与备份文件](https://github.com/xiaohaowvc/spUvTY/commit/61360db2a7052bc709672621ea47b73417225d45)
 - [数据集样本污染溯源，定位投毒样本来源手段](https://github.com/xiaohaowvc/spUvTY/commit/1306163212592c53474e1e63d2784c1de3de904a)
+- [个人债务帮扶服务普及，负债群体救助渠道](https://github.com/xiaohaowvc/spUvTY/commit/0597623eb0a045a9db9cf7059179b563d5261a31)
