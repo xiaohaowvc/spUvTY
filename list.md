@@ -166,3 +166,4 @@
 - [文件上传下载开源工程 完整源码实现文件分片上传逻辑](https://github.com/xiaohaowvc/spUvTY/commit/71b2399e8e74981983d2f3453fb2a8ba85f760d4)
 - [专精特新企业成长，需要持续政策环境托举](https://github.com/xiaohaowvc/spUvTY/commit/7de6f2473097582b4a1271195ff4f61d3908c266)
 - [买房认筹金、诚意金，哪些钱可以无条件退还](https://github.com/xiaohaowvc/spUvTY/commit/f9dfcd9903728d378e854f0923ffcbc7dfb19088)
+- [开发者参考开源工程 源码资源含多场景使用样例](https://github.com/xiaohaowvc/spUvTY/commit/9858da35ad8ea6fdaec5c5a96f53a08983337baf)
