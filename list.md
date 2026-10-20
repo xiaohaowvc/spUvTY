@@ -12,3 +12,4 @@
 - [开源仓库文档引用外部资料标注来源出处](https://github.com/xiaohaowvc/spUvTY/commit/91ce13f66ae660157ed225b9f5bf96ca2afdfb3c)
 - [GitHub仓库批量归档闲置仓库脚本](https://github.com/xiaohaowvc/spUvTY/commit/c09725899b1e3d59350213bd6e023b37ae73d792)
 - [影子AI全生命周期治理，从发现管控到合规转正](https://github.com/xiaohaowvc/spUvTY/commit/8c29ddb84fc269a34e4361afa0ea4fc9edc0be51)
+- [吹捧一人公司风口，普通人创业风险被掩盖](https://github.com/xiaohaowvc/spUvTY/commit/51e10d8e05e683a29eb600b33f9d1a014c5092c0)
