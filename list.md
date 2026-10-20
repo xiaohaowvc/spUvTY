@@ -7,3 +7,4 @@
 - [租房押金不退怎么办租客维权实用处理方法](https://github.com/xiaohaowvc/spUvTY/commit/a8dd4506754dae30f55ac224d1606add424a2057)
 - [6G通感一体，感知数据接入AI业务流水线](https://github.com/xiaohaowvc/spUvTY/commit/391ab372cffdcb31c8d0adb3d6810038f288d247)
 - [GitHub平台商业化加重，开发者是否该寻找替代平台](https://github.com/xiaohaowvc/spUvTY/commit/4dcf1d4dc6e5dfe8fa81413897c444583dde7f3f)
+- [社会保障的完善，能够降低居民的预防性储蓄动机](https://github.com/xiaohaowvc/spUvTY/commit/5d82672f6b64646b9ce5ffbc277131ddeaa05640)
