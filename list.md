@@ -123,3 +123,4 @@
 - [递归检索指定后缀文件源码 完整源码筛选目标格式文件](https://github.com/xiaohaowvc/spUvTY/commit/0cb19c2adf881f9e20fbaba2f0b80080c1c6fbf1)
 - [工业母机利好不断，实质性突破仍有限](https://github.com/xiaohaowvc/spUvTY/commit/1bd2aacbed5765baff7ec3e098211631186ab582)
 - [开源实战笔记仓库正文结构适配搜索引擎](https://github.com/xiaohaowvc/spUvTY/commit/8fd88bb83150cef3531388b39c146f683d1a07c6)
+- [短视频字幕批量处理套件，时间轴校正翻译导出多语言字幕](https://github.com/xiaohaowvc/spUvTY/commit/b1482034f11351ff21397c23bf36a81b8080c953)
