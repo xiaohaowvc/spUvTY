@@ -106,3 +106,4 @@
 - [以旧换新政策落地，如何真正撬动大众消费意愿](https://github.com/xiaohaowvc/spUvTY/commit/1ef7c0e8e0fcd01a79826afe854ebed4812388f7)
 - [普惠托育服务扩张普通家庭养育孩子成本变化](https://github.com/xiaohaowvc/spUvTY/commit/5279182d985147c34f7297b94000e6e3c8c35284)
 - [细胞治疗价格下探普通患者能享受到红利吗](https://github.com/xiaohaowvc/spUvTY/commit/abac109e43a5951a6b0059df358800144a44526d)
+- [pdf批量提取全部链接，提取pdf内部所有超链接输出csv](https://github.com/xiaohaowvc/spUvTY/commit/29ed79d24b33acc8a1eb5147bb42dbf0e7da3dc0)
