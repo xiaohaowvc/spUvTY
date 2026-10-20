@@ -17,3 +17,4 @@
 - [城市停车设施建设提速停车经济打开城市消费新空间](https://github.com/xiaohaowvc/spUvTY/commit/4b3e5ccfd07ebc3a62238ab2e3f70815ea7a0a1a)
 - [组合模式工程 完整源码树形对象组合处理](https://github.com/xiaohaowvc/spUvTY/commit/198d84d5048f941396642246e56ff173f644c2a6)
 - [农房抵押贷款试点推进阻碍](https://github.com/xiaohaowvc/spUvTY/commit/fd97e217da88b0ed66ba3bf4f39b0ab1e10ef9d9)
+- [城市地摊经济规范发展，如何兼顾民生就业与市容管理](https://github.com/xiaohaowvc/spUvTY/commit/9b06fd2a78075dc65da580cef25fd9cd5d35100d)
