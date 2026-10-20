@@ -61,3 +61,4 @@
 - [REITs产品扩容，普通居民参与投资注意事项](https://github.com/xiaohaowvc/spUvTY/commit/74c9cc7e0d898929631430d671e8f4300c25ec79)
 - [保障性租赁住房新市民安居现状](https://github.com/xiaohaowvc/spUvTY/commit/147833d4701c9300d8130025afd9a6e8585dc360)
 - [轻量高性能表格开源库 源码开放附带配置参数详细讲解](https://github.com/xiaohaowvc/spUvTY/commit/40b8cefaf0f6e6c126f7c19e92d4e777d8584700)
+- [GitHub 仓库 README 补充项目摘要与核心功能](https://github.com/xiaohaowvc/spUvTY/commit/aebf83aba2bf8ac87929da9e043df989c8f75c5d)
