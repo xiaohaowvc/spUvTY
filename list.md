@@ -26,3 +26,4 @@
 - [开源项目关键词自然融入文档不要堆砌](https://github.com/xiaohaowvc/spUvTY/commit/b277ef5f1484ec1101bd73e904c149625b3c6e7f)
 - [AI人才能力矩阵，区分应用、调优、工程、安全岗位](https://github.com/xiaohaowvc/spUvTY/commit/aa73a59516085e8f5dc0d3ca0a1b724e983e2710)
 - [公共交通宠物携带管理多方诉求](https://github.com/xiaohaowvc/spUvTY/commit/66ab2c5928d4001eaa74668238c3f14d71ff568d)
+- [程序员开源参考代码库 源码资源配套集成接入排错手册](https://github.com/xiaohaowvc/spUvTY/commit/ff18768aee2be2c23678c26e5f0a61c3e0e90710)
