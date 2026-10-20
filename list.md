@@ -38,3 +38,4 @@
 - [rbac 权限模型源码 完整源码角色权限资源完整实现](https://github.com/xiaohaowvc/spUvTY/commit/8f55c8cb08baa76dc64eae5d712cf6813fdc373e)
 - [个人信息保护，生活中信息泄露常见场景](https://github.com/xiaohaowvc/spUvTY/commit/4532ea13b6cc57727c5b636684ff3b7793783467)
 - [农家院预约系统，入住退房营收订单统计项目](https://github.com/xiaohaowvc/spUvTY/commit/5506e9a0bc10cf2033d545fca717f2da86375d63)
+- [音频文件标签批量清除，批量删除音频id3全部元标签](https://github.com/xiaohaowvc/spUvTY/commit/321857bb13500c81c8016e596c5b2f4eaded4ffb)
