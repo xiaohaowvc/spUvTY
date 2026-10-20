@@ -63,3 +63,4 @@
 - [轻量高性能表格开源库 源码开放附带配置参数详细讲解](https://github.com/xiaohaowvc/spUvTY/commit/40b8cefaf0f6e6c126f7c19e92d4e777d8584700)
 - [GitHub 仓库 README 补充项目摘要与核心功能](https://github.com/xiaohaowvc/spUvTY/commit/aebf83aba2bf8ac87929da9e043df989c8f75c5d)
 - [GitHub 开源项目 README 补充常见问题解答](https://github.com/xiaohaowvc/spUvTY/commit/812e09e955b60b8a52612ae3e7e86156c3c36fd0)
+- [url路径遍历payload生成工具，批量生成路径扫描测试payload](https://github.com/xiaohaowvc/spUvTY/commit/e81fa6282d508e544d45c2492edcbc5824a3df87)
