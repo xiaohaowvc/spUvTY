@@ -195,3 +195,4 @@
 - [断网生活体验折射现代人精神困境](https://github.com/xiaohaowvc/spUvTY/commit/a34f32f68a69933ea4a6cda58189d004ebe590bc)
 - [磁盘文件统计开源 Demo 完整源码统计目录文件大小数量](https://github.com/xiaohaowvc/spUvTY/commit/a3ab93647a9964c59b781b0795314a9183663de3)
 - [批量文件处理脚本开源项目 可运行源码附带本地部署操作说明](https://github.com/xiaohaowvc/spUvTY/commit/04b47e2c6c6be910562660807ca2dc8818c00c1d)
+- [太空算力云在轨计算，卫星端AI推理工程挑战](https://github.com/xiaohaowvc/spUvTY/commit/8a562d8e2a2b401495595c4fe88a63b9a08f9439)
