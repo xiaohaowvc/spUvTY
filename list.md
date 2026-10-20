@@ -81,3 +81,4 @@
 - [大家都在劝买黄金，为什么大佬却在悄悄减仓](https://github.com/xiaohaowvc/spUvTY/commit/193ac519992d9ff3db9b3c67d08e04084743d514)
 - [医保目录动态调整，高价特效药纳入医保进程](https://github.com/xiaohaowvc/spUvTY/commit/e8a171158d7e8be77ffc2ecb956c2590aa932bad)
 - [重复文件移动归档工具，扫描重复文件移动到归档目录](https://github.com/xiaohaowvc/spUvTY/commit/2782031b366c6089bc2bc123ce3bf8c142e7116a)
+- [开源知识库归档页面添加 noindex 标签小技巧](https://github.com/xiaohaowvc/spUvTY/commit/9e6d132eb336fb8762fa1adcaf8c7fce20c6a3be)
