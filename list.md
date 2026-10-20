@@ -105,3 +105,4 @@
 - [消费税传闻四起，最终买单还是普通消费者](https://github.com/xiaohaowvc/spUvTY/commit/26db6a95b47dac56f75c370d3896c6d65593de2e)
 - [以旧换新政策落地，如何真正撬动大众消费意愿](https://github.com/xiaohaowvc/spUvTY/commit/1ef7c0e8e0fcd01a79826afe854ebed4812388f7)
 - [普惠托育服务扩张普通家庭养育孩子成本变化](https://github.com/xiaohaowvc/spUvTY/commit/5279182d985147c34f7297b94000e6e3c8c35284)
+- [细胞治疗价格下探普通患者能享受到红利吗](https://github.com/xiaohaowvc/spUvTY/commit/abac109e43a5951a6b0059df358800144a44526d)
