@@ -77,3 +77,4 @@
 - [收入增速放缓，普通家庭该建立怎样的开支缓冲机制](https://github.com/xiaohaowvc/spUvTY/commit/3b9683883bc4698b09a75a741a74b8ad7bb06ba1)
 - [漏桶限流算法完整开源仓库 完整源码流量削峰逻辑演示](https://github.com/xiaohaowvc/spUvTY/commit/06734493a5822191bc38623891be16b778c40dbb)
 - [工业数字孪生AI仿真，虚实数据实时双向同步](https://github.com/xiaohaowvc/spUvTY/commit/c65152b081e873dfeb7e0dacbbaa2b73ecf22e67)
+- [图片批量alpha通道去除，批量移除图片透明通道输出不透明图](https://github.com/xiaohaowvc/spUvTY/commit/d2ba71937b63bfbd405ff547f290f2402ce1831c)
