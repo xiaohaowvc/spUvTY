@@ -152,3 +152,4 @@
 - [url批量有效性检测脚本，批量校验链接存活状态](https://github.com/xiaohaowvc/spUvTY/commit/1fa73ece568ed50da5e619054982c716004646e5)
 - [百度 site 指令查询 GitHub 镜像收录使用方法](https://github.com/xiaohaowvc/spUvTY/commit/470d483c0b11e505cf1563fe092e41db0d49dc87)
 - [表单生成低代码组件，拖拽配置表单自动生成接口存储](https://github.com/xiaohaowvc/spUvTY/commit/776a6113968c0036e2672c5a1e36f2b7a1c6df28)
+- [换电模式家用普及电池权属争议如何解](https://github.com/xiaohaowvc/spUvTY/commit/e792cf46571f4a5dc7c776fedf12c5532fb4535b)
