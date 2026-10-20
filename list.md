@@ -99,3 +99,4 @@
 - [冰雪消费向南渗透南方室内冰雪打开全新消费空间](https://github.com/xiaohaowvc/spUvTY/commit/ce8a0a1a0efd02db8199ffc928aa01015c6e9d9b)
 - [上市公司大手笔回购，不少只为美化市场](https://github.com/xiaohaowvc/spUvTY/commit/003d5bd76082807f9e5c5d4028f5888dad72474c)
 - [PDF图纸工艺知识抽取，非结构化文档结构化](https://github.com/xiaohaowvc/spUvTY/commit/2da5f76985ac16f0aa05d08776b7c470c91cb589)
+- [ssh批量执行命令工具，多台主机批量执行命令汇总输出结果](https://github.com/xiaohaowvc/spUvTY/commit/e9b4055e44180d4b78e806c3a60bb4bebf946b94)
