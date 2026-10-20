@@ -154,3 +154,4 @@
 - [表单生成低代码组件，拖拽配置表单自动生成接口存储](https://github.com/xiaohaowvc/spUvTY/commit/776a6113968c0036e2672c5a1e36f2b7a1c6df28)
 - [换电模式家用普及电池权属争议如何解](https://github.com/xiaohaowvc/spUvTY/commit/e792cf46571f4a5dc7c776fedf12c5532fb4535b)
 - [本地浏览器rsa‑oaep加解密工具，前端实现rsa‑oaep加密解密](https://github.com/xiaohaowvc/spUvTY/commit/de2bf469e779996ee8221750241f4d85804b1687)
+- [网页链接死链扫描工具，爬取站点内部检测全部死链接](https://github.com/xiaohaowvc/spUvTY/commit/718315e42f116c7fda2259158bf7f3bd1a340f1d)
