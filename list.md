@@ -185,3 +185,4 @@
 - [应用层DDoS攻击防护，CC攻击识别与清洗](https://github.com/xiaohaowvc/spUvTY/commit/9f70b532b33f35f252bcb7111736f6a785fd01ef)
 - [无人机物流规模化，偏远乡村快递配送](https://github.com/xiaohaowvc/spUvTY/commit/52556b44f4023d610dcc310f730092e2dd700151)
 - [无障碍出行推进，残障人士出行环境改善](https://github.com/xiaohaowvc/spUvTY/commit/c4706b07b76dea2b3f7d4b9faa5450f41c4a33aa)
+- [Agent工具自动发现，无需硬编码注册外部接口](https://github.com/xiaohaowvc/spUvTY/commit/7bc20117ef872b532a9e0989cd7d469c1521bb77)
