@@ -50,3 +50,4 @@
 - [AI手机价格下探AI功能向中低端机型快速渗透](https://github.com/xiaohaowvc/spUvTY/commit/2010b570a063b3f645f864d691cec5d0b90e1288)
 - [灵活休假多元探索，周休制度改革社会讨论](https://github.com/xiaohaowvc/spUvTY/commit/5f6bb09fb8ff6ca028f10692ddb7ae798c0e824f)
 - [新业态劳动者社保全覆盖，参保缴费现实压力](https://github.com/xiaohaowvc/spUvTY/commit/3e45447e9081701d734a2d1de00822ee3515be01)
+- [数据库批量删除 Demo 完整源码批量清理历史过期数据](https://github.com/xiaohaowvc/spUvTY/commit/97dfaeb4fd955c2a60f93840f6c1f6beab821141)
