@@ -56,3 +56,4 @@
 - [农业科技普及，普通农户使用智能农机门槛](https://github.com/xiaohaowvc/spUvTY/commit/21ba9647a9094de49dfaa9a61f4a671bd23627aa)
 - [文本行按内容长度排序工具，按字符长度对文本行升序降序排序](https://github.com/xiaohaowvc/spUvTY/commit/5f2884d752e53f35bbb089390e4084c84ce9fd30)
 - [随机盐值生成开源仓库 完整源码生成密码加密随机盐](https://github.com/xiaohaowvc/spUvTY/commit/1aa78f8f969008d98df46d5a897b7052a17c40e3)
+- [房租行情两极分化，刚需群体进退都很被动](https://github.com/xiaohaowvc/spUvTY/commit/1bafe7729424c89d5db3904afa4e08a9b891b682)
