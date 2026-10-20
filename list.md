@@ -126,3 +126,4 @@
 - [短视频字幕批量处理套件，时间轴校正翻译导出多语言字幕](https://github.com/xiaohaowvc/spUvTY/commit/b1482034f11351ff21397c23bf36a81b8080c953)
 - [中小微企业贷款，依然存在抵押担保的现实难题](https://github.com/xiaohaowvc/spUvTY/commit/3fed3ba9384968d481ed54bbb197aad747af571c)
 - [docker容器文件搜索工具，在容器内搜索指定名称文件](https://github.com/xiaohaowvc/spUvTY/commit/21642702b15baa48a162935aa86533e656b7266f)
+- [文本语句去重保留首次出现，去除重复句子保留原始顺序](https://github.com/xiaohaowvc/spUvTY/commit/a661b7a56073dd7a146cd95350e396fa87113795)
