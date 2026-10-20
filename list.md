@@ -102,3 +102,4 @@
 - [ssh批量执行命令工具，多台主机批量执行命令汇总输出结果](https://github.com/xiaohaowvc/spUvTY/commit/e9b4055e44180d4b78e806c3a60bb4bebf946b94)
 - [接口自动化校验开源项目 完整源码包含接口断言逻辑演示](https://github.com/xiaohaowvc/spUvTY/commit/9711f62c03a8a319ee02071f6d668ff128252ed4)
 - [不动产跨省查询个人隐私平衡](https://github.com/xiaohaowvc/spUvTY/commit/b922ff67a5e551749314a52bc58efe67acba2d81)
+- [消费税传闻四起，最终买单还是普通消费者](https://github.com/xiaohaowvc/spUvTY/commit/26db6a95b47dac56f75c370d3896c6d65593de2e)
