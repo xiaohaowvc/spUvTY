@@ -88,3 +88,4 @@
 - [HTTPS 简易服务开源仓库 完整源码搭建 https 测试服务](https://github.com/xiaohaowvc/spUvTY/commit/5fa3d66b65b2cbe081d2145603078a4d26ca1060)
 - [浏览器书签批量管理套件，去重分类导入导出云端同步书签](https://github.com/xiaohaowvc/spUvTY/commit/c02f4633ad3e89d2d35a90f6e52ed67c0806cc83)
 - [大厂开源项目弃坑，项目热度过后团队裁撤](https://github.com/xiaohaowvc/spUvTY/commit/1926b7c66771cc302e916bac8190d151b1e06dea)
+- [大模型单元测试建设，模型行为自动化校验方案](https://github.com/xiaohaowvc/spUvTY/commit/a47fd93d20984ffb22d0a684a41be8ed7ce1c942)
