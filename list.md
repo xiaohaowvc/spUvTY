@@ -168,3 +168,4 @@
 - [买房认筹金、诚意金，哪些钱可以无条件退还](https://github.com/xiaohaowvc/spUvTY/commit/f9dfcd9903728d378e854f0923ffcbc7dfb19088)
 - [开发者参考开源工程 源码资源含多场景使用样例](https://github.com/xiaohaowvc/spUvTY/commit/9858da35ad8ea6fdaec5c5a96f53a08983337baf)
 - [黄金消费持续升温，居民配置黄金背后的避险心理](https://github.com/xiaohaowvc/spUvTY/commit/c2b119347f1624d74a0d4112e7b17b6be325796e)
+- [AI生成代码的隐性bug，静态检查很难发现](https://github.com/xiaohaowvc/spUvTY/commit/72fa682deec0a22b3fdfff1345def98728c7f5a1)
