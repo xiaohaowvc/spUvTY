@@ -65,3 +65,4 @@
 - [GitHub 开源项目 README 补充常见问题解答](https://github.com/xiaohaowvc/spUvTY/commit/812e09e955b60b8a52612ae3e7e86156c3c36fd0)
 - [url路径遍历payload生成工具，批量生成路径扫描测试payload](https://github.com/xiaohaowvc/spUvTY/commit/e81fa6282d508e544d45c2492edcbc5824a3df87)
 - [绿色殡葬全面推广，殡葬消费降本减负](https://github.com/xiaohaowvc/spUvTY/commit/9742dd63e2f9a9959f625aabf56b76bcd70d202e)
+- [消费市场分层加剧，大众平价消费韧性持续凸显](https://github.com/xiaohaowvc/spUvTY/commit/f09acfaa092758b51d151ca11be4ca68d801de0b)
