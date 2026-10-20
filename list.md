@@ -151,3 +151,4 @@
 - [批量下载工具开源项目 完整源码附带下载任务管理逻辑](https://github.com/xiaohaowvc/spUvTY/commit/9fe4db670172704027f3ed7aea9affc856e8f2db)
 - [url批量有效性检测脚本，批量校验链接存活状态](https://github.com/xiaohaowvc/spUvTY/commit/1fa73ece568ed50da5e619054982c716004646e5)
 - [百度 site 指令查询 GitHub 镜像收录使用方法](https://github.com/xiaohaowvc/spUvTY/commit/470d483c0b11e505cf1563fe092e41db0d49dc87)
+- [表单生成低代码组件，拖拽配置表单自动生成接口存储](https://github.com/xiaohaowvc/spUvTY/commit/776a6113968c0036e2672c5a1e36f2b7a1c6df28)
