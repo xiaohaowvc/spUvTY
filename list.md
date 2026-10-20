@@ -51,3 +51,4 @@
 - [灵活休假多元探索，周休制度改革社会讨论](https://github.com/xiaohaowvc/spUvTY/commit/5f6bb09fb8ff6ca028f10692ddb7ae798c0e824f)
 - [新业态劳动者社保全覆盖，参保缴费现实压力](https://github.com/xiaohaowvc/spUvTY/commit/3e45447e9081701d734a2d1de00822ee3515be01)
 - [数据库批量删除 Demo 完整源码批量清理历史过期数据](https://github.com/xiaohaowvc/spUvTY/commit/97dfaeb4fd955c2a60f93840f6c1f6beab821141)
+- [本地简易socks5测试客户端，测试socks5代理连通性](https://github.com/xiaohaowvc/spUvTY/commit/241670a6df6ad07f52e91fefde13b1f0793d0517)
