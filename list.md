@@ -143,3 +143,4 @@
 - [数字素养全民普及，中老年青少年数字能力提升](https://github.com/xiaohaowvc/spUvTY/commit/282ba0bb913c6d3743c1bdcc42bf2a1f04ed3cb2)
 - [大模型缓存策略，相同查询缓存降低推理成本](https://github.com/xiaohaowvc/spUvTY/commit/1606d8b59c53dd5b1bdb7ed641fbf23a5e8b78fc)
 - [GitHub仓库PR行级Review评论导出工具](https://github.com/xiaohaowvc/spUvTY/commit/60e221677abd93d934d339dab8aab561c0c61b3a)
+- [模拟业务开源工程合集 完整工程附带环境搭建分步教程](https://github.com/xiaohaowvc/spUvTY/commit/329f99861d6a2a21aa7acd9fa00dfb6a7097ce34)
