@@ -114,3 +114,4 @@
 - [老年兴趣培训市场整治如何避开养老骗局](https://github.com/xiaohaowvc/spUvTY/commit/fb2954f0d2d84bddbdda9dc155f3485c52cae753)
 - [本地简易tcp syn扫描脚本，原始套接字syn探测端口存活](https://github.com/xiaohaowvc/spUvTY/commit/797662bf91263bc7de6d24b4ab85c9cc58566389)
 - [并发请求流量控速工程 完整源码限制并发数防止请求过载](https://github.com/xiaohaowvc/spUvTY/commit/d1b7e10023b0302d6a3e2b8dca5596850a69f8fc)
+- [开源技术文档加入排错思考逻辑而不只是答案](https://github.com/xiaohaowvc/spUvTY/commit/c4507169d3242dee5535db4bf099dbc87529e0ec)
