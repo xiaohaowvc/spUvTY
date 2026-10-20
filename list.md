@@ -92,3 +92,4 @@
 - [市场机会遍地宣扬，普通人赚钱依旧艰难](https://github.com/xiaohaowvc/spUvTY/commit/653b5c85631337d184d5457f000c2ec896a25be2)
 - [字符串脱敏屏蔽开源工程 完整源码手机号身份证字符串脱敏](https://github.com/xiaohaowvc/spUvTY/commit/3741141d253e7beb77be1821dd571928fc4e54e0)
 - [煤炭清洁利用政策落地传统能源行业绿色转型发展路径研判](https://github.com/xiaohaowvc/spUvTY/commit/3e5f1caa7a238cf0062cd46a10825f5cc8f68d78)
+- [SVG矢量图批量渲染导出PNG，转换矢量格式脚本](https://github.com/xiaohaowvc/spUvTY/commit/2c09f3fadf4c74400d45d0aebc5f2debd3abcb76)
