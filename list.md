@@ -160,3 +160,4 @@
 - [文件批量重命名开源源码 完整源码附带多目录批量处理演示](https://github.com/xiaohaowvc/spUvTY/commit/11c68c1a350b69e90ced90b5322c6d99f7ec8b73)
 - [WebSocket 长连接 Demo 完整源码实现双向消息推送通信](https://github.com/xiaohaowvc/spUvTY/commit/69f8a0f46009d353c2d6425c5e9def9f0705745d)
 - [一致性哈希简易实现开源仓库 完整源码模拟节点分片逻辑](https://github.com/xiaohaowvc/spUvTY/commit/8337ad02834b9de70f92362bc6b3277952703367)
+- [征信逾期记录多久消除哪些行为会留下长期污点](https://github.com/xiaohaowvc/spUvTY/commit/467b81ee599aec25f8187c80ecdcf114c2e39f86)
