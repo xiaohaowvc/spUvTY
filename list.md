@@ -137,3 +137,4 @@
 - [静态开源站点屏蔽爬虫抓取草稿与备份文件](https://github.com/xiaohaowvc/spUvTY/commit/61360db2a7052bc709672621ea47b73417225d45)
 - [数据集样本污染溯源，定位投毒样本来源手段](https://github.com/xiaohaowvc/spUvTY/commit/1306163212592c53474e1e63d2784c1de3de904a)
 - [个人债务帮扶服务普及，负债群体救助渠道](https://github.com/xiaohaowvc/spUvTY/commit/0597623eb0a045a9db9cf7059179b563d5261a31)
+- [版本依赖处理开源案例 完整源码解决各类版本兼容难题](https://github.com/xiaohaowvc/spUvTY/commit/46e61731fef307c6485d199da7bd430bf886a208)
