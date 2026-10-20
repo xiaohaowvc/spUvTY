@@ -110,3 +110,4 @@
 - [智能家居隐私风险，设备静默采集用户行为数据](https://github.com/xiaohaowvc/spUvTY/commit/f3bab668ac409e6115b2ecfe97b21d25a22d5cb3)
 - [跨境直播电商兴起，国货出海直播新赛道](https://github.com/xiaohaowvc/spUvTY/commit/e53ddb0abc77201c66e55a17b2853e2920053bbf)
 - [国企民企协同发展，才能释放整体经济活力](https://github.com/xiaohaowvc/spUvTY/commit/efce88f95501f6f13cb24bdaad1eca7a1faa8cda)
+- [程序优雅停机实现开源工程 完整源码捕获信号释放资源](https://github.com/xiaohaowvc/spUvTY/commit/5a3419fff2eed5ee4b9e1c182833fe3a7d663ae3)
