@@ -9,3 +9,4 @@
 - [GitHub平台商业化加重，开发者是否该寻找替代平台](https://github.com/xiaohaowvc/spUvTY/commit/4dcf1d4dc6e5dfe8fa81413897c444583dde7f3f)
 - [社会保障的完善，能够降低居民的预防性储蓄动机](https://github.com/xiaohaowvc/spUvTY/commit/5d82672f6b64646b9ce5ffbc277131ddeaa05640)
 - [简易事件总线源码 完整源码内存事件总线事件监听分发](https://github.com/xiaohaowvc/spUvTY/commit/42f39fc87a0e41e1d4d7c36fe7e041b907dc503b)
+- [开源仓库文档引用外部资料标注来源出处](https://github.com/xiaohaowvc/spUvTY/commit/91ce13f66ae660157ed225b9f5bf96ca2afdfb3c)
