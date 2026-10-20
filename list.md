@@ -171,3 +171,4 @@
 - [AI生成代码的隐性bug，静态检查很难发现](https://github.com/xiaohaowvc/spUvTY/commit/72fa682deec0a22b3fdfff1345def98728c7f5a1)
 - [可修改开源工具仓库 全套源码搭配环境构建教程](https://github.com/xiaohaowvc/spUvTY/commit/2aaa5f9abc4e00f05969f02f08dc5413914950b6)
 - [铝锌等基本金属供需博弈工业金属四季度行情怎么走](https://github.com/xiaohaowvc/spUvTY/commit/f8e4e892270f9102468fc96fb06074e7cd6dadd5)
+- [GitHub 开源项目文档减少纯代码块增加讲解](https://github.com/xiaohaowvc/spUvTY/commit/cff09e7bc319a3774afe927594d7fab537a00f3f)
