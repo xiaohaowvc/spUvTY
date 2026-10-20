@@ -25,3 +25,4 @@
 - [缓存穿透防护方案工程 完整源码解决缓存穿透问题](https://github.com/xiaohaowvc/spUvTY/commit/0e6c586fdf97ed23a171aa2693f026848ea62497)
 - [开源项目关键词自然融入文档不要堆砌](https://github.com/xiaohaowvc/spUvTY/commit/b277ef5f1484ec1101bd73e904c149625b3c6e7f)
 - [AI人才能力矩阵，区分应用、调优、工程、安全岗位](https://github.com/xiaohaowvc/spUvTY/commit/aa73a59516085e8f5dc0d3ca0a1b724e983e2710)
+- [公共交通宠物携带管理多方诉求](https://github.com/xiaohaowvc/spUvTY/commit/66ab2c5928d4001eaa74668238c3f14d71ff568d)
