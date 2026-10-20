@@ -149,3 +149,4 @@
 - [AI终端多设备协同，手机PC平板记忆互通冲突](https://github.com/xiaohaowvc/spUvTY/commit/aa975b98f8b21abdca4af58fd15628829ce4785a)
 - [农民增收多元路径非农收入占比持续稳步提升](https://github.com/xiaohaowvc/spUvTY/commit/dc9796230aea220810da422bad8895268bca8567)
 - [批量下载工具开源项目 完整源码附带下载任务管理逻辑](https://github.com/xiaohaowvc/spUvTY/commit/9fe4db670172704027f3ed7aea9affc856e8f2db)
+- [url批量有效性检测脚本，批量校验链接存活状态](https://github.com/xiaohaowvc/spUvTY/commit/1fa73ece568ed50da5e619054982c716004646e5)
