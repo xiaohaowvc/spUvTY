@@ -162,3 +162,4 @@
 - [一致性哈希简易实现开源仓库 完整源码模拟节点分片逻辑](https://github.com/xiaohaowvc/spUvTY/commit/8337ad02834b9de70f92362bc6b3277952703367)
 - [征信逾期记录多久消除哪些行为会留下长期污点](https://github.com/xiaohaowvc/spUvTY/commit/467b81ee599aec25f8187c80ecdcf114c2e39f86)
 - [接口模拟服务开源仓库 可运行源码包含完整接口请求示例](https://github.com/xiaohaowvc/spUvTY/commit/f7fad1b06167aa543f1df1f7964e5abea6a94a47)
+- [高阶智驾下沉普及十几万家用车搭载智驾功能成常态](https://github.com/xiaohaowvc/spUvTY/commit/486e9efdffd53a2e26ebf3e2a7a68604e8438a80)
