@@ -174,3 +174,4 @@
 - [GitHub 开源项目文档减少纯代码块增加讲解](https://github.com/xiaohaowvc/spUvTY/commit/cff09e7bc319a3774afe927594d7fab537a00f3f)
 - [短视频过度沉迷，青少年网络管控现实](https://github.com/xiaohaowvc/spUvTY/commit/1f6171bc1ded91e0fc788fa2114c78635bf29d72)
 - [简易部署开源项目源码库 源码资源配套生产环境初始化](https://github.com/xiaohaowvc/spUvTY/commit/343b934b70bd506bcfb1b33cc71b96df1bffe80b)
+- [滑动窗口指标统计工程 完整源码统计一段时间内指标](https://github.com/xiaohaowvc/spUvTY/commit/56f572623d907ac3d2c4f5f65704232ab3e2df00)
