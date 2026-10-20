@@ -85,3 +85,4 @@
 - [Git Commit规范校验脚本，拦截不合规提交信息](https://github.com/xiaohaowvc/spUvTY/commit/e8e373a9460134799493304253acc0fa6081b69f)
 - [垂直行业大模型落地AI不再只停留在通用概念层面](https://github.com/xiaohaowvc/spUvTY/commit/1ce9a1bbd94c2383db3236d3bd42f2eba08d84df)
 - [Secret扫描误报，大量普通字符串被识别密钥](https://github.com/xiaohaowvc/spUvTY/commit/f2f5a13fcf1db8ace69a3e6b36827eeb82083c6c)
+- [HTTPS 简易服务开源仓库 完整源码搭建 https 测试服务](https://github.com/xiaohaowvc/spUvTY/commit/5fa3d66b65b2cbe081d2145603078a4d26ca1060)
