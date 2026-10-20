@@ -90,3 +90,4 @@
 - [大厂开源项目弃坑，项目热度过后团队裁撤](https://github.com/xiaohaowvc/spUvTY/commit/1926b7c66771cc302e916bac8190d151b1e06dea)
 - [大模型单元测试建设，模型行为自动化校验方案](https://github.com/xiaohaowvc/spUvTY/commit/a47fd93d20984ffb22d0a684a41be8ed7ce1c942)
 - [市场机会遍地宣扬，普通人赚钱依旧艰难](https://github.com/xiaohaowvc/spUvTY/commit/653b5c85631337d184d5457f000c2ec896a25be2)
+- [字符串脱敏屏蔽开源工程 完整源码手机号身份证字符串脱敏](https://github.com/xiaohaowvc/spUvTY/commit/3741141d253e7beb77be1821dd571928fc4e54e0)
