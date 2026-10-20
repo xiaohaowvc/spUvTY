@@ -84,3 +84,4 @@
 - [开源知识库归档页面添加 noindex 标签小技巧](https://github.com/xiaohaowvc/spUvTY/commit/9e6d132eb336fb8762fa1adcaf8c7fce20c6a3be)
 - [Git Commit规范校验脚本，拦截不合规提交信息](https://github.com/xiaohaowvc/spUvTY/commit/e8e373a9460134799493304253acc0fa6081b69f)
 - [垂直行业大模型落地AI不再只停留在通用概念层面](https://github.com/xiaohaowvc/spUvTY/commit/1ce9a1bbd94c2383db3236d3bd42f2eba08d84df)
+- [Secret扫描误报，大量普通字符串被识别密钥](https://github.com/xiaohaowvc/spUvTY/commit/f2f5a13fcf1db8ace69a3e6b36827eeb82083c6c)
