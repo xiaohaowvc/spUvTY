@@ -13,3 +13,4 @@
 - [GitHub仓库批量归档闲置仓库脚本](https://github.com/xiaohaowvc/spUvTY/commit/c09725899b1e3d59350213bd6e023b37ae73d792)
 - [影子AI全生命周期治理，从发现管控到合规转正](https://github.com/xiaohaowvc/spUvTY/commit/8c29ddb84fc269a34e4361afa0ea4fc9edc0be51)
 - [吹捧一人公司风口，普通人创业风险被掩盖](https://github.com/xiaohaowvc/spUvTY/commit/51e10d8e05e683a29eb600b33f9d1a014c5092c0)
+- [音频采样率批量转换脚本，统一音频格式采样率](https://github.com/xiaohaowvc/spUvTY/commit/47f3f2999640772ded5040f3389b3b9de9d8829a)
