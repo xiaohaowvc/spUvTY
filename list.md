@@ -116,3 +116,4 @@
 - [并发请求流量控速工程 完整源码限制并发数防止请求过载](https://github.com/xiaohaowvc/spUvTY/commit/d1b7e10023b0302d6a3e2b8dca5596850a69f8fc)
 - [开源技术文档加入排错思考逻辑而不只是答案](https://github.com/xiaohaowvc/spUvTY/commit/c4507169d3242dee5535db4bf099dbc87529e0ec)
 - [国内棉花收储启动托底棉价纺织产业链压力有所缓解](https://github.com/xiaohaowvc/spUvTY/commit/1607c3aa900e8af9293048fa53c2bb2fdfa98c28)
+- [GitHub 开源仓库文档更新后快速通知百度爬虫](https://github.com/xiaohaowvc/spUvTY/commit/d5ffc5266d3adaf116992da1c57d596ce685a52c)
