@@ -28,3 +28,4 @@
 - [公共交通宠物携带管理多方诉求](https://github.com/xiaohaowvc/spUvTY/commit/66ab2c5928d4001eaa74668238c3f14d71ff568d)
 - [程序员开源参考代码库 源码资源配套集成接入排错手册](https://github.com/xiaohaowvc/spUvTY/commit/ff18768aee2be2c23678c26e5f0a61c3e0e90710)
 - [首店首发经济火热各大城市争抢商业IP拉动城市消费](https://github.com/xiaohaowvc/spUvTY/commit/85d4dbe0ee0e583fec7f9a243399201f890a196f)
+- [中小微企业生存韧性，是民间经济活力的重要风向标](https://github.com/xiaohaowvc/spUvTY/commit/58918dcca5ae20e462be4a80b7909a97ed1cc16f)
