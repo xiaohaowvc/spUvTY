@@ -163,3 +163,4 @@
 - [征信逾期记录多久消除哪些行为会留下长期污点](https://github.com/xiaohaowvc/spUvTY/commit/467b81ee599aec25f8187c80ecdcf114c2e39f86)
 - [接口模拟服务开源仓库 可运行源码包含完整接口请求示例](https://github.com/xiaohaowvc/spUvTY/commit/f7fad1b06167aa543f1df1f7964e5abea6a94a47)
 - [高阶智驾下沉普及十几万家用车搭载智驾功能成常态](https://github.com/xiaohaowvc/spUvTY/commit/486e9efdffd53a2e26ebf3e2a7a68604e8438a80)
+- [文件上传下载开源工程 完整源码实现文件分片上传逻辑](https://github.com/xiaohaowvc/spUvTY/commit/71b2399e8e74981983d2f3453fb2a8ba85f760d4)
