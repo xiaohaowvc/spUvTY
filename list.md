@@ -128,3 +128,4 @@
 - [docker容器文件搜索工具，在容器内搜索指定名称文件](https://github.com/xiaohaowvc/spUvTY/commit/21642702b15baa48a162935aa86533e656b7266f)
 - [文本语句去重保留首次出现，去除重复句子保留原始顺序](https://github.com/xiaohaowvc/spUvTY/commit/a661b7a56073dd7a146cd95350e396fa87113795)
 - [pdf页面旋转批量工具，批量旋转pdf页面修正方向](https://github.com/xiaohaowvc/spUvTY/commit/23b891ed9879876735f19f6b85069cabc0b1fbba)
+- [mqtt设备消息模板生成，批量生成模拟设备payload模板](https://github.com/xiaohaowvc/spUvTY/commit/11d59052bca501e724e20d8d97309a0da82b4168)
