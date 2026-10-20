@@ -24,3 +24,4 @@
 - [轻量易上线开源项目源码 源码开放包含快速上线步骤](https://github.com/xiaohaowvc/spUvTY/commit/77cbeba92e4d7fc0b216ca59ed138e3d0f2b26dc)
 - [缓存穿透防护方案工程 完整源码解决缓存穿透问题](https://github.com/xiaohaowvc/spUvTY/commit/0e6c586fdf97ed23a171aa2693f026848ea62497)
 - [开源项目关键词自然融入文档不要堆砌](https://github.com/xiaohaowvc/spUvTY/commit/b277ef5f1484ec1101bd73e904c149625b3c6e7f)
+- [AI人才能力矩阵，区分应用、调优、工程、安全岗位](https://github.com/xiaohaowvc/spUvTY/commit/aa73a59516085e8f5dc0d3ca0a1b724e983e2710)
