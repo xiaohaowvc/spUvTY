@@ -156,3 +156,4 @@
 - [本地浏览器rsa‑oaep加解密工具，前端实现rsa‑oaep加密解密](https://github.com/xiaohaowvc/spUvTY/commit/de2bf469e779996ee8221750241f4d85804b1687)
 - [网页链接死链扫描工具，爬取站点内部检测全部死链接](https://github.com/xiaohaowvc/spUvTY/commit/718315e42f116c7fda2259158bf7f3bd1a340f1d)
 - [国产OS Agent开发框架，端侧生态完善阻碍](https://github.com/xiaohaowvc/spUvTY/commit/3af8746f4dd5e65c712b97bb4a3e820df8f50983)
+- [技术人才转型，AI时代工程师能力重塑](https://github.com/xiaohaowvc/spUvTY/commit/bea43285c498db566500852d455df2603d23e29f)
