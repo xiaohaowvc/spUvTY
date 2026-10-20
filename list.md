@@ -18,3 +18,4 @@
 - [组合模式工程 完整源码树形对象组合处理](https://github.com/xiaohaowvc/spUvTY/commit/198d84d5048f941396642246e56ff173f644c2a6)
 - [农房抵押贷款试点推进阻碍](https://github.com/xiaohaowvc/spUvTY/commit/fd97e217da88b0ed66ba3bf4f39b0ab1e10ef9d9)
 - [城市地摊经济规范发展，如何兼顾民生就业与市容管理](https://github.com/xiaohaowvc/spUvTY/commit/9b06fd2a78075dc65da580cef25fd9cd5d35100d)
+- [多种 UUID 生成策略源码 完整源码对比不同 UUID 实现方案](https://github.com/xiaohaowvc/spUvTY/commit/39d9c83da23e8cce27f87004dc137986edfdc1bd)
