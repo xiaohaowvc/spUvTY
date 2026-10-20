@@ -144,3 +144,4 @@
 - [大模型缓存策略，相同查询缓存降低推理成本](https://github.com/xiaohaowvc/spUvTY/commit/1606d8b59c53dd5b1bdb7ed641fbf23a5e8b78fc)
 - [GitHub仓库PR行级Review评论导出工具](https://github.com/xiaohaowvc/spUvTY/commit/60e221677abd93d934d339dab8aab561c0c61b3a)
 - [模拟业务开源工程合集 完整工程附带环境搭建分步教程](https://github.com/xiaohaowvc/spUvTY/commit/329f99861d6a2a21aa7acd9fa00dfb6a7097ce34)
+- [shell脚本配置文件解析模板，读取ini格式配置文件脚本模板](https://github.com/xiaohaowvc/spUvTY/commit/b9f2fe7382d0979941f1808fc0b395177743e1ea)
