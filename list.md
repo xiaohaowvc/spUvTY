@@ -22,3 +22,4 @@
 - [人人谈论财富逆袭，大部分人依旧艰难求存](https://github.com/xiaohaowvc/spUvTY/commit/37e215a8f337b1fbed347d077649fcdb037dd1ba)
 - [本地优先软件Local‑First，数据完全留在设备端](https://github.com/xiaohaowvc/spUvTY/commit/3e5b6b5419aef5c02ad18b25adbf04a4aace447e)
 - [轻量易上线开源项目源码 源码开放包含快速上线步骤](https://github.com/xiaohaowvc/spUvTY/commit/77cbeba92e4d7fc0b216ca59ed138e3d0f2b26dc)
+- [缓存穿透防护方案工程 完整源码解决缓存穿透问题](https://github.com/xiaohaowvc/spUvTY/commit/0e6c586fdf97ed23a171aa2693f026848ea62497)
