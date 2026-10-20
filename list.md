@@ -59,3 +59,4 @@
 - [房租行情两极分化，刚需群体进退都很被动](https://github.com/xiaohaowvc/spUvTY/commit/1bafe7729424c89d5db3904afa4e08a9b891b682)
 - [跨境电商海外仓建设，运营成本高企挤压中小商家利润](https://github.com/xiaohaowvc/spUvTY/commit/ec674d4fef17a4af4a4e17b8b766b437efbacb81)
 - [REITs产品扩容，普通居民参与投资注意事项](https://github.com/xiaohaowvc/spUvTY/commit/74c9cc7e0d898929631430d671e8f4300c25ec79)
+- [保障性租赁住房新市民安居现状](https://github.com/xiaohaowvc/spUvTY/commit/147833d4701c9300d8130025afd9a6e8585dc360)
