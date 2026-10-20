@@ -179,3 +179,4 @@
 - [github仓库issue评论批量导出，导出所有issue评论内容作者信息](https://github.com/xiaohaowvc/spUvTY/commit/19dcf9f54ac6231a52ce522a84e707519ab901cf)
 - [数字藏品炒作风险普通人如何规避](https://github.com/xiaohaowvc/spUvTY/commit/80a22409d126800a23ef9de690a667febe5bcb5b)
 - [消费券发放，怎样避免补贴流向中间商，真正惠及居民](https://github.com/xiaohaowvc/spUvTY/commit/55708c1f743d59f9971c00a20562a9db93130e9b)
+- [量子加密技术民用个人信息安全迎来升级](https://github.com/xiaohaowvc/spUvTY/commit/20d79a494c2a903ae54a3477d2ed08a1b0967ad7)
