@@ -139,3 +139,4 @@
 - [个人债务帮扶服务普及，负债群体救助渠道](https://github.com/xiaohaowvc/spUvTY/commit/0597623eb0a045a9db9cf7059179b563d5261a31)
 - [版本依赖处理开源案例 完整源码解决各类版本兼容难题](https://github.com/xiaohaowvc/spUvTY/commit/46e61731fef307c6485d199da7bd430bf886a208)
 - [算力预算熔断机制，AI项目超支自动限流处置](https://github.com/xiaohaowvc/spUvTY/commit/ef00b49101c0af8908482b07adae782f483cde94)
+- [文本中文全角括号转半角括号，批量统一括号符号格式](https://github.com/xiaohaowvc/spUvTY/commit/3f75c1a5637144d4c0a271c5eea654efd28b5c59)
