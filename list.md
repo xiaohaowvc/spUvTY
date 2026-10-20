@@ -157,3 +157,4 @@
 - [网页链接死链扫描工具，爬取站点内部检测全部死链接](https://github.com/xiaohaowvc/spUvTY/commit/718315e42f116c7fda2259158bf7f3bd1a340f1d)
 - [国产OS Agent开发框架，端侧生态完善阻碍](https://github.com/xiaohaowvc/spUvTY/commit/3af8746f4dd5e65c712b97bb4a3e820df8f50983)
 - [技术人才转型，AI时代工程师能力重塑](https://github.com/xiaohaowvc/spUvTY/commit/bea43285c498db566500852d455df2603d23e29f)
+- [文件批量重命名开源源码 完整源码附带多目录批量处理演示](https://github.com/xiaohaowvc/spUvTY/commit/11c68c1a350b69e90ced90b5322c6d99f7ec8b73)
