@@ -73,3 +73,4 @@
 - [版本号乐观锁 Demo 完整源码版本号实现并发更新控制](https://github.com/xiaohaowvc/spUvTY/commit/6fb513813d36d80f6a5356e948f8f3d37af45fbe)
 - [普惠金融下沉，如何防范小微借贷带来的债务风险](https://github.com/xiaohaowvc/spUvTY/commit/0de65debecaf6fca381b1b1f7477f84c214e26b3)
 - [头部主播流量退潮直播电商行业变局](https://github.com/xiaohaowvc/spUvTY/commit/a145ca949332495709288c0fb4bdfb0dc745e285)
+- [视频场景切换检测工具，检测视频镜头切换输出时间点](https://github.com/xiaohaowvc/spUvTY/commit/57cd0a2b20e4aa252d0f25552ddd3f6839c56bfd)
