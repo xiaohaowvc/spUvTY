@@ -20,3 +20,4 @@
 - [城市地摊经济规范发展，如何兼顾民生就业与市容管理](https://github.com/xiaohaowvc/spUvTY/commit/9b06fd2a78075dc65da580cef25fd9cd5d35100d)
 - [多种 UUID 生成策略源码 完整源码对比不同 UUID 实现方案](https://github.com/xiaohaowvc/spUvTY/commit/39d9c83da23e8cce27f87004dc137986edfdc1bd)
 - [人人谈论财富逆袭，大部分人依旧艰难求存](https://github.com/xiaohaowvc/spUvTY/commit/37e215a8f337b1fbed347d077649fcdb037dd1ba)
+- [本地优先软件Local‑First，数据完全留在设备端](https://github.com/xiaohaowvc/spUvTY/commit/3e5b6b5419aef5c02ad18b25adbf04a4aace447e)
