@@ -69,3 +69,4 @@
 - [模块化技术开源代码合集 全套源码附落地实操演示](https://github.com/xiaohaowvc/spUvTY/commit/46405a5edb7b1effa83ece6b1ab081d8eb5ccdff)
 - [Dependabot自动更新依赖，频繁PR骚扰维护者](https://github.com/xiaohaowvc/spUvTY/commit/fe8ee7ca614be6fc724c5f7041d000c7bad4695a)
 - [系统登录审计脚本，识别异常登录行为告警](https://github.com/xiaohaowvc/spUvTY/commit/7dc19c937dd14d158c678a4db05b6d9b69d802be)
+- [模拟网页表单提交开源仓库 完整源码 post 表单模拟提交](https://github.com/xiaohaowvc/spUvTY/commit/8ee80e47e5765fb33fdb14cef527b96636bcb2dd)
