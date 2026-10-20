@@ -158,3 +158,4 @@
 - [国产OS Agent开发框架，端侧生态完善阻碍](https://github.com/xiaohaowvc/spUvTY/commit/3af8746f4dd5e65c712b97bb4a3e820df8f50983)
 - [技术人才转型，AI时代工程师能力重塑](https://github.com/xiaohaowvc/spUvTY/commit/bea43285c498db566500852d455df2603d23e29f)
 - [文件批量重命名开源源码 完整源码附带多目录批量处理演示](https://github.com/xiaohaowvc/spUvTY/commit/11c68c1a350b69e90ced90b5322c6d99f7ec8b73)
+- [WebSocket 长连接 Demo 完整源码实现双向消息推送通信](https://github.com/xiaohaowvc/spUvTY/commit/69f8a0f46009d353c2d6425c5e9def9f0705745d)
