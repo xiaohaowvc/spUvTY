@@ -46,3 +46,4 @@
 - [古籍异体字规范化转换工具，繁简异体文本处理脚本](https://github.com/xiaohaowvc/spUvTY/commit/2d5a5f099fd6837743c48a024b603dc5b8d059b3)
 - [自托管Runner搭建，企业私有化执行器利弊](https://github.com/xiaohaowvc/spUvTY/commit/3fca67cc88fb592aa81dd738e8dc2efc33b5ad7f)
 - [不要追热点题材，热点最后大多套人](https://github.com/xiaohaowvc/spUvTY/commit/b5b2f58f4cca79d6e9779ac56b81097bf9a84000)
+- [服务注册发现简易模拟开源源码 完整源码模拟服务注册中心](https://github.com/xiaohaowvc/spUvTY/commit/10eb53c511863974e1d70f1e76433d2853bb66f5)
