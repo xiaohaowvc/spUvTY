@@ -43,3 +43,4 @@
 - [本地简易udp端口转发脚本，实现udp端口流量转发](https://github.com/xiaohaowvc/spUvTY/commit/cb312fb61c07a37b75724fd0f8f99e8362bb56bc)
 - [长租公寓爆雷遗留租客维权难点](https://github.com/xiaohaowvc/spUvTY/commit/366ee1de6e8f32bae2ca62ae81bc603b81a57070)
 - [地方专项债用作资本金撬动社会资本投入基建项目](https://github.com/xiaohaowvc/spUvTY/commit/d5550b549fe81c996fe6cbb70066cc8b5bebc299)
+- [古籍异体字规范化转换工具，繁简异体文本处理脚本](https://github.com/xiaohaowvc/spUvTY/commit/2d5a5f099fd6837743c48a024b603dc5b8d059b3)
