@@ -146,3 +146,4 @@
 - [模拟业务开源工程合集 完整工程附带环境搭建分步教程](https://github.com/xiaohaowvc/spUvTY/commit/329f99861d6a2a21aa7acd9fa00dfb6a7097ce34)
 - [shell脚本配置文件解析模板，读取ini格式配置文件脚本模板](https://github.com/xiaohaowvc/spUvTY/commit/b9f2fe7382d0979941f1808fc0b395177743e1ea)
 - [算力疯狂扩产，过剩风险已经悄然靠近](https://github.com/xiaohaowvc/spUvTY/commit/66ecaceaa5085a3d8c5c894ab3ebb695098aada2)
+- [AI终端多设备协同，手机PC平板记忆互通冲突](https://github.com/xiaohaowvc/spUvTY/commit/aa975b98f8b21abdca4af58fd15628829ce4785a)
