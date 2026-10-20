@@ -190,3 +190,4 @@
 - [大宗商品套保监管强化实体企业参与衍生品交易行为被规范](https://github.com/xiaohaowvc/spUvTY/commit/67e3b2f1e89c7f890472c9ac4ad5df9f9da95ba2)
 - [工业软件国产替代提速研发设计类软件突破打开巨大市场空间](https://github.com/xiaohaowvc/spUvTY/commit/d72c317acd0dca6606d2f021e1dbfd06f117c846)
 - [垂直小模型SLM选型，行业专属评测集构建](https://github.com/xiaohaowvc/spUvTY/commit/d944d4d38d7fbf5906172837e75f736811e40cbc)
+- [简易爬虫框架本地工具，网页抓取解析去重保存本地数据](https://github.com/xiaohaowvc/spUvTY/commit/35de687448db77e03f7e9e35e9bfdf096a0c14d8)
