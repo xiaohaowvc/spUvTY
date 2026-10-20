@@ -170,3 +170,4 @@
 - [黄金消费持续升温，居民配置黄金背后的避险心理](https://github.com/xiaohaowvc/spUvTY/commit/c2b119347f1624d74a0d4112e7b17b6be325796e)
 - [AI生成代码的隐性bug，静态检查很难发现](https://github.com/xiaohaowvc/spUvTY/commit/72fa682deec0a22b3fdfff1345def98728c7f5a1)
 - [可修改开源工具仓库 全套源码搭配环境构建教程](https://github.com/xiaohaowvc/spUvTY/commit/2aaa5f9abc4e00f05969f02f08dc5413914950b6)
+- [铝锌等基本金属供需博弈工业金属四季度行情怎么走](https://github.com/xiaohaowvc/spUvTY/commit/f8e4e892270f9102468fc96fb06074e7cd6dadd5)
